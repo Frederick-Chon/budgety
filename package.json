@@ -1,0 +1,16 @@
+{
+  "name": "budgety",
+  "version": "1.0.0",
+  "description": "Simple budgeting page for HTML/CSS/JavaScript practice!",
+  "homepage" : "https://frederick-chon.github.io/budgety/",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d starter"
+  },
+  "author": "f c",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
